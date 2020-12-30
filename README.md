@@ -17,7 +17,7 @@ If all enemies are eliminated before they get to the bottom of the screen
 If an enemy makes it to the bottom of the screen 
 ![Loser](game.over.PNG)
 
-V 1.1
+Version 1
 
 ENJOY! 
 
